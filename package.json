@@ -64,7 +64,7 @@
     "test:types": "tsc --noEmit"
   },
   "optionalDependencies": {
-    "canvas": "^2.11.2"
+    "@napi-rs/canvas": "^0.1.50"
   },
   "devDependencies": {
     "@rollup/plugin-alias": "^5.1.0",
